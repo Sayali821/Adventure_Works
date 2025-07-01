@@ -76,7 +76,7 @@ Created a centralized **Measure Table** with the following DAX measures:
 
 ## 📊 Dashboard
 
-<img src="https://github.com/Sayali821/Adventure_Works/blob/000f9a695f4980fb4fb4e07dbd95a7bf2f0a3f72/AW__Banner.jpg" width="1000"/>
+<img src="https://github.com/Sayali821/Adventure_Works/blob/9d9be66f051584204c767d5f78da98d70c4d0a12/AW_Dashboard.jpg" width="1000"/>
 
 ## ✨ Highlights
 
