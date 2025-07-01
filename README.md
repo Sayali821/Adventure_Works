@@ -1,4 +1,4 @@
-# Adventure_Works
+# 🚲 Adventure_Works_Sales_Analysis
 
 <img src="https://github.com/Sayali821/Adventure_Works/blob/000f9a695f4980fb4fb4e07dbd95a7bf2f0a3f72/AW__Banner.jpg" width="1000"/>
 
@@ -74,6 +74,9 @@ Created a centralized **Measure Table** with the following DAX measures:
 
 ---
 
+## 📊 Dashboard
+
+<img src="https://github.com/Sayali821/Adventure_Works/blob/000f9a695f4980fb4fb4e07dbd95a7bf2f0a3f72/AW__Banner.jpg" width="1000"/>
 
 ## ✨ Highlights
 
