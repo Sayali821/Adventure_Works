@@ -1,6 +1,6 @@
 # Adventure_Works
 
-<img src="https://media.istockphoto.com/id/485653024/vector/teamwork-concept.jpg?s=612x612&w=0&k=20&c=t4xxaimPAi6IbVwvxtPuZxR_6ls8BBFdGx2l13dhC2c=" width="1000"/>
+<img src="https://github.com/Sayali821/Adventure_Works/blob/000f9a695f4980fb4fb4e07dbd95a7bf2f0a3f72/AW__Banner.jpg" width="1000"/>
 
 ---
 ## 📌 Overview
